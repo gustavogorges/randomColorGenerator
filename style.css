@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainNav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 25px;
+}
+
+.selectType {
+    display: flex;
+    margin-right: 100px;
+}
+
+.selectType a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: #000;
+}
+
+.titleText {
+    margin-left: 350px;
+    color: rgb(96, 164, 253);
+}
+
+
+/* Background change */
+
+#backgroundChange {
+    background-color: #fff;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.backgroundChange {
+    background-color: #fff;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnColor {
+    margin-top: 30px;
+    color: #000;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+.color {
+    padding: 10px 10px;
+    background-color: #000;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.verde {
+    background-color: green;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.roxo {
+    background-color: purple;
+}
+
+.rosa {
+    background-color: pink;
+}
+
+.amarelo {
+    background-color: yellow;
+}
